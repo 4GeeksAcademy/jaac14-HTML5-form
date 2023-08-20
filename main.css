@@ -1,0 +1,36 @@
+body{
+    background-color: white;
+    padding: 0;
+    width: 100%;
+}
+
+
+
+div{
+    margin-bottom: 10px;
+}
+body{
+    background-color: white;
+    border: none;
+    padding: 0;
+    width: 100%;
+    height: 100;
+    position: absolute;
+}
+
+
+div{
+    margin-bottom: 10px;
+}
+#payType{
+   position: relative;
+   right: 12%;
+}
+#buttons{
+    display: flex;
+    justify-content: end;
+}
+#buttons{
+    display: flex;
+    justify-content: end;
+}
